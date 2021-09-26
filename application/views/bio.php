@@ -1,5 +1,5 @@
 <?php
-class tugaswp1 extends CI_Controller {
+class bio extends CI_Controller {
     public function index()
 
     {
