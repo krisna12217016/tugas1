@@ -1,5 +1,5 @@
 <?php
-class tugaswp extand CI_Controller {
+class tugaswp1 extand CI_Controller {
     public function index()
 
     {
