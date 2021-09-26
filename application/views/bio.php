@@ -1,7 +1,6 @@
 <?php
 class bio extends CI_Controller {
     public function index()
-
     {
         echo "<hi> Data Diri </h1>";
         echo "Nama : Krisna Heru Saputra <br>
