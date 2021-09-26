@@ -1,6 +1,6 @@
 <?php
 
-class tugas extend CI_Controller {
+class tugas extand CI_Controller {
     public function index()
     {
         echo "<hi> Data Diri </h1>";
