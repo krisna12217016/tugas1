@@ -2,7 +2,7 @@
 class bio extends CI_Controller {
     public function index()
     {
-        echo "<hi> Data Diri </h1>";
+        echo "<hi> Data Diri <br></h1>";
         echo "Nama : Krisna Heru Saputra <br>
         Tempat Lahir : Bekasi <br>
         Tanggal Lahir : 23 Agustus 1994 <br>
